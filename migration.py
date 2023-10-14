@@ -1,6 +1,6 @@
 import pyodbc
 import mysql.connector
-  
+ #SirineBourbiaa
 # Database connection details for Microsoft SQL Server
 server = 'DESKTOP-GEEVNVQ\BCDEMO'
 database = 'Demo Database BC (21-0)'
